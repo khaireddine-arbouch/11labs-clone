@@ -25,8 +25,8 @@ This project is a comprehensive AI voice generation platform that combines multi
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
-cd elevenlabs-clone
+git clone https://github.com/khaireddine-arbouch/11labs-clone.git
+cd 11labs-clone
 ```
 
 2. Install frontend dependencies:
@@ -142,18 +142,6 @@ docker-compose up -d
 - StyleTTS2 API: http://localhost:8000
 - SEED-VC API: http://localhost:8001
 - Make-An-Audio API: http://localhost:8002
-
-## License
-
-[Your License]
-
-## 👥 Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
 
 ## Acknowledgments
 
