@@ -1,0 +1,7 @@
+curl -X 'POST' \
+  'http://localhost:8000/generate' \
+  -H 'Authorization: Bearer 12345' \
+  -H 'Content-Type: application/json' \
+  -d '{
+        "prompt": "a baby smiling."
+      }'
